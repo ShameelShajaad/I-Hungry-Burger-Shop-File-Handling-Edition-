@@ -1,4 +1,4 @@
-# 🍔 IHungryBurgerShop - File Handling Edition
+# 🍔 I Hungry Burger Shop - File Handling Edition
 
 **Author:** Shameel Shajaad  
 **Module:** Object-Oriented Programming & Data Structures and Algorithms (ICET Institute)  
