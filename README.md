@@ -94,15 +94,20 @@ IHungryBurgerShop-FileHandling-Edition/
 ├── src/  
 │   ├── iHungryBurgerShop/  
 │   │   ├── HomePage.java  
-│   │   ├── PlaceOrder.java  
-│   │   ├── ViewOrders.java  
-│   │   ├── UpdateOrder.java  
-│   │   ├── Order.java  
-│   │   └── Customer.java  
+│   │   ├── PlaceOrderPage.java  
+│   │   ├── ViewOrdersPage.java  
+│   │   ├── UpdateOrderPage.java  
+│   │   ├── CancelledOrdersPage.java  
+│   │   ├── DeliveredOrdersPage.java  
+│   │   ├── Main.java  
+│   │   ├── ProcessingOrdersPage.java  
+│   │   ├── RoundedButton.java  
+│   │   ├── CancelledOrdersPage.java  
+│   │   ├── SearchBestCustomerPage.java  
+│   │   ├── SearchCustomerPage.java  
+│   │   └── SearchOrderPage.java  
 │   └── Images/  
-│       ├── logo.png  
-│       ├── burger.png  
-│       └── background.jpg  
+│       └── Burger_Logo.png 
 ├── Burger.txt  
 └── README.md  
 
@@ -114,6 +119,7 @@ IHungryBurgerShop-FileHandling-Edition/
    javac src/iHungryBurgerShop *.java
    java src/iHungryBurgerShop/Main
    ```
+   
 5. **Important Notes**
    - `Burger.txt` must remain in the **project root directory**.  
    - Do **not rename** or move this file.  
